@@ -1,0 +1,7 @@
+start 
+let idTK x : 1 
+main { 
+let idTK w : 3 
+scanf [ idTK x ] . 
+printf [ idTK y ] . 
+} stop
